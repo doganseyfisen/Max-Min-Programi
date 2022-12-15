@@ -1,5 +1,5 @@
 # Max-Min-Programi
-Max Min Programi
+
 ## Java Programlama Dilinde Max Min Programi
 
 Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
